@@ -1,0 +1,5 @@
+{
+  "watch": ["assets/scss"],
+  "ext": "scss",
+  "exec": "sass dev/assets/scss/style.scss dev/assets/css/style.css"
+}
